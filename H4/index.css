@@ -1,0 +1,38 @@
+body, html {
+    font-family: Arial, serif;
+}
+nav {
+    margin-top: 20px;
+    background-color:black;
+    padding: 10px;
+}
+nav a{
+    color:white;
+    font-weight: bold;
+    text-decoration:none;
+    padding-right:5px;
+    border-right: 2px solid white;
+}
+article{
+    float:left;
+    width: 49%;
+    margin-right: 2%;
+    margin-top: 20px;
+}
+table{
+    width: 49%;
+    border:1px solid black;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+td{
+    padding:15px;
+    border:1px solid black;
+}
+td.groen{
+    background-color: #ccffcc;
+}
+td.blauw{
+    background-color: #ccffff;
+}
