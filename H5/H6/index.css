@@ -1,0 +1,33 @@
+body, html {
+font-family: 'Montserrat', sans serif;
+}
+div#wrapper, footer{
+    margin: auto;
+    width: 1000px;
+    background-color: rgb(251, 235, 235);
+    padding: 20px;
+}
+nav{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+nav a{
+    margin-right: 20px;
+}
+footer{
+    background-color: rgb(166, 166, 166);
+    color:white;
+}
+footer a{
+    color:white;
+}
+form {
+    display:block;
+}
+.Knop {
+background-color: cornflowerblue;
+    height: 50px;
+    width: 110px;
+    float: right;
+    font-family: Montserrat, sans-serif;
+}
